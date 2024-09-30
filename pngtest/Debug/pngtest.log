@@ -1,0 +1,7 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  pngtest.cpp
+C:\lab7sem\task2\pngtest\pngtest.cpp(156,72): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+  PngProc.cpp
+  Создание кода...
+PngProc.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  pngtest.vcxproj -> C:\lab7sem\task2\Debug\pngtest.exe
